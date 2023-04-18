@@ -1,0 +1,130 @@
+html, body, h1, h2,h3, ul, li,p, a, article, aside, footer, header, main, nav, section{
+	padding: 0%;
+	margin: 0%;
+}
+html{
+	background-image: url(../img/Bc.png);
+}
+footer{
+	margin-top: 5%;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.555);
+	color: antiquewhite;
+}
+
+#headerOne{
+	text-align: center;
+	width: auto;
+	height: 12%;
+	background-color: rgba(37, 37, 37, 0.874);
+	color: rgb(23, 20, 57);
+}
+#headerTwo{
+	margin-top: 5%;
+}
+#Logo{
+	float: left;
+	width: 10%;
+	height: auto;
+	padding: 0%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	width: 20.5%;
+	margin-top: 0.7%;
+	margin-left: 12%;
+  }
+  li {
+	float: left;
+  }
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  li a:hover {
+	background-color: #111;
+  }
+
+  h1{
+	margin-right: 60%;
+  }
+
+  #ReleasesArt{
+	padding: 0.5%;
+	width: 45%;
+	color: antiquewhite;
+	margin-left: 8%;
+  }
+  #topRatedArt{
+	padding: 0.5%;
+	width: 45%;
+	color: antiquewhite;
+	margin-left: 8%;
+  }
+  #tagsArt{
+	padding: 0.5%;
+	margin-top: 5%;
+	color: antiquewhite;
+	margin-left: 8%;
+  }
+  #topSellArt{
+	padding: 0.5%;
+	margin-top: 1.5%;
+	width: 60%;
+	height: auto;
+	color: antiquewhite;
+	margin-left: 8%;
+  }
+  #specialArt{
+	padding: 0.5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	color: antiquewhite;
+	margin-left: 8%;
+  }
+  #RecommendArt{
+	text-align: center;
+	width: 25%;
+	height: auto;
+	margin-left: 36%;
+	background-color: gray;
+	padding: 0.5%;
+	border: 3px solid gray;
+	border-radius: 10px;
+	color: antiquewhite;
+	
+  }
+  #asideOne{
+	float: right;
+	width: 20%;
+	height: 50%;
+	text-align: center;
+	padding: 0%;
+	margin-right: 15.5%;
+	margin-top: 2%;
+	color: antiquewhite;
+  }
+  #asideImg{
+	padding: 2%;
+	margin-top: 5%;
+  }
+  #Logo{
+	width: 12%;
+	height: 100%;
+  }
+  #GameLogo{
+	width: 40%;
+	height: 30%;
+  }
+  #GameLogo2{
+	width: 18.23%;
+	height: 15%;
+  }

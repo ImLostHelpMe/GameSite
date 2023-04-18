@@ -1,0 +1,67 @@
+html,body{
+    padding: 0%;
+    background-image: url(../img/Bc.png);
+}
+
+#headerOne{
+	text-align: center;
+	width: auto;
+	height: 12%;
+	background-color: rgba(37, 37, 37, 0.874);
+	color: rgb(23, 20, 57);
+}
+#Logo{
+	float: left;
+	width: 14.5%;
+	height: auto;
+	padding: 0%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	width: 16.5%;
+	margin-top: 0.7%;
+	margin-left: 12%;
+  }
+  li {
+	float: left;
+  }
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  li a:hover {
+	background-color: #111;
+  }
+
+  h1{
+	margin-right: 60%;
+  }
+  h2{
+    font-size: xx-large;
+    color: antiquewhite;
+  }
+
+#Main{
+    text-align: center;
+    margin-top: 6.5%;
+    margin-left: 23%;
+    width: 50%;
+
+}
+#GameLogo{
+    width: 50%;
+    padding: 5%;
+}
+
+#header2{
+    width: 50%;
+    height: auto;
+}

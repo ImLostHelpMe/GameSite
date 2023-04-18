@@ -1,0 +1,99 @@
+html, body, h1, h2,h3, ul, li,p, a, article, aside, footer, header, main, nav, section{
+	padding: 0%;
+	margin: 0%;
+}
+html{
+	background-image: url(../img/Bc.png);
+	
+}
+p{
+	color: antiquewhite;
+}
+h2{
+	color: rgb(255, 255, 255);
+	padding: 1%;
+}
+footer{
+	margin-top: 5%;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.555);
+	color: antiquewhite;
+}
+
+#headerOne{
+	text-align: center;
+	width: auto;
+	height: 12%;
+	background-color: rgba(37, 37, 37, 0.874);
+	color: rgb(23, 20, 57);
+}
+#Logo{
+	float: left;
+	width: 13.5%;
+	height: auto;
+	padding: 0%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	width: 16%;
+	margin-top: 0.7%;
+	margin-left: 12%;
+  }
+  li {
+	float: left;
+  }
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  li a:hover {
+	background-color: #111;
+  }
+
+  h1{
+	margin-right: 60%;
+  }
+  #header2{
+	color: rgb(27,255,128);
+	}
+#aboutSec{
+	text-align: center;
+	width: 40%;
+	height: 20%;
+	margin-left: 25%;
+	margin-top: 2%;
+	background-color: rgba(0, 0, 0, 0.406);
+	border: 3px solid rgba(0, 0, 0, 0.406);
+	border-radius: 10px;
+	padding: 2%;
+}
+#FAQ{
+	text-align: center;
+	width: 35%;
+	height: 40%;
+	margin-left: 29%;
+	margin-top: 2%;
+	background-color: rgba(0, 0, 0, 0.406);
+	border: 3px solid rgba(0, 0, 0, 0.406);
+	border-radius: 10px;
+	padding: 0.5%;
+}
+#easterEgg{
+	color: #111;
+	font-size: xx-small;
+	width: 3%;
+	height: auto;
+	margin-left: 3%;
+}
+a{
+	color: #111;
+}
+
